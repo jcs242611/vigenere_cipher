@@ -1,4 +1,4 @@
-# # vigenere_cipher
+# vigenere_cipher
 
 Changes to be made:
 1. Split the test files into Kasiski + IC + MIC file and redirect output of previous part as input to next part
